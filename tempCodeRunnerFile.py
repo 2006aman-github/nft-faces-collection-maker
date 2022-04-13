@@ -1,0 +1,1 @@
+int(new_image.size[0]/15), int(new_image.size[1]/15)
